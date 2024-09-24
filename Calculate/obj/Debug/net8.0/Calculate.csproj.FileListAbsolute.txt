@@ -1,0 +1,11 @@
+C:\Users\User\RiderProjects\Calculate\Calculate\bin\Debug\net8.0\Calculate.deps.json
+C:\Users\User\RiderProjects\Calculate\Calculate\bin\Debug\net8.0\Calculate.dll
+C:\Users\User\RiderProjects\Calculate\Calculate\bin\Debug\net8.0\Calculate.pdb
+C:\Users\User\RiderProjects\Calculate\Calculate\obj\Debug\net8.0\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Calculate\Calculate\obj\Debug\net8.0\Calculate.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Calculate\Calculate\obj\Debug\net8.0\Calculate.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Calculate\Calculate\obj\Debug\net8.0\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Calculate\Calculate\obj\Debug\net8.0\Calculate.dll
+C:\Users\User\RiderProjects\Calculate\Calculate\obj\Debug\net8.0\refint\Calculate.dll
+C:\Users\User\RiderProjects\Calculate\Calculate\obj\Debug\net8.0\Calculate.pdb
+C:\Users\User\RiderProjects\Calculate\Calculate\obj\Debug\net8.0\ref\Calculate.dll
